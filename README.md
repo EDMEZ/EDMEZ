@@ -18,4 +18,4 @@
  
  </div>
 
-  ![Snake animation](https://github.com/EDMEZ/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
