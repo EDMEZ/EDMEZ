@@ -1,4 +1,4 @@
-## Oiii eu sou a Eduardo Max, Atualmente estudante do colégio COTEMIG.
+## Oiii eu sou o Eduardo Max, Atualmente estudante do colégio COTEMIG.
 <div align="center">
   <a href="https://github.com/EDMEZ">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=EDMEZ&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
   ##
   
   <div> 
-  <a href="https://www.linkedin.com/in/eduardo-max-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardo-max/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
  
