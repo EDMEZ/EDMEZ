@@ -6,7 +6,7 @@
 </div>
 <div>
   <br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://w7.pngwing.com/pngs/866/528/png-transparent-php-web-development-perl-logo-php-logo-cdr-text-trademark-thumbnail.png">
+  <img align="center" alt="HTML" height="30" width="40" src="https://o.remove.bg/downloads/c6064449-ed4e-4d5b-9aba-f57f4a40899f/image-removebg-preview.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
