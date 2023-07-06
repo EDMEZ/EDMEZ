@@ -1,4 +1,4 @@
-## Oiii eu sou o Eduardo Max, Atualmente estudante do colégio COTEMIG. E Desenvolvedor Front-End junior 
+## Oi eu sou o Eduardo Max, Atualmente estudante do colégio COTEMIG. E Desenvolvedor Front-End junior 
 <div align="center">
   <a href="https://github.com/EDMEZ">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=EDMEZ&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
