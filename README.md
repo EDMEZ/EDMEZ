@@ -8,7 +8,7 @@
 <div align="center">
   <br>
   
-   <h1 align="center">Technology Stack</h1>
+  
   
   
   ![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
